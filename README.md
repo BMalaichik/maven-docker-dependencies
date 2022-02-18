@@ -34,7 +34,7 @@ To add a new dependency follow steps:
 - add `<dependency></dependency>` entry in `pom.xml` file
 - Build new container image.
 
-## Usage
+## Example
 
 To be used in multi-stage build process.
 
